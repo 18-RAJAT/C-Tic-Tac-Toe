@@ -2,10 +2,11 @@
 // Created by rajat joshi on 05-06 -2022.
 //
 
-#include "Program.h"
+// #include "Program.h"
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
+
 int index1;
 char board[9] = {'*','*','*','*','*','*','*','*','*'};// Single array represents the board '*' means empty box in board
 
